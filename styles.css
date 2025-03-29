@@ -28,13 +28,13 @@ button {
     padding: 10px;
     cursor: pointer;
     border: none;
-    background: #619191;
+    background: #f0bbed;
     color: white;
     border-radius: 5px;
 }
 
 button:hover {
-    background: #619191;
+    background: #f0bbed;
 }
 
 ul {
