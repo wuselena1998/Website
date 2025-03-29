@@ -46,13 +46,13 @@ li {
     margin: 10px 0;
 }
 a {
-    color: #d8a8ff; /* Light purple color */
-    text-decoration: none; /* Optional: Removes underline */
+    color: #d8a8ff; 
+    text-decoration: none; 
 }
 
 a:hover {
-    color: #b57edc; /* Slightly darker purple when hovered */
-    text-decoration: underline; /* Optional: Underline on hover */
+    color: #b57edc; 
+    text-decoration: underline; 
 }
 .dark-mode {
     background-color:#f2f0f0;
