@@ -45,7 +45,15 @@ ul {
 li {
     margin: 10px 0;
 }
+a {
+    color: #d8a8ff; /* Light purple color */
+    text-decoration: none; /* Optional: Removes underline */
+}
 
+a:hover {
+    color: #b57edc; /* Slightly darker purple when hovered */
+    text-decoration: underline; /* Optional: Underline on hover */
+}
 .dark-mode {
     background-color: #333;
     color: white;
