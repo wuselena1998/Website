@@ -55,7 +55,7 @@ a:hover {
     text-decoration: underline; /* Optional: Underline on hover */
 }
 .dark-mode {
-    background-color: #333;
+    background-color:#f2f0f0;
     color: white;
 }
 
